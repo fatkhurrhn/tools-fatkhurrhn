@@ -1,12 +1,42 @@
-# React + Vite
+# 🛠️ Tools - Fatkhurrhn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kumpulan berbagai **tools sederhana** berbasis web yang saya bangun menggunakan **React + Vite + TailwindCSS**.  
+Project ini dibuat untuk memudahkan berbagai kebutuhan kecil sehari-hari langsung dari browser.
 
-Currently, two official plugins are available:
+🌐 Live Demo: [tools-fatkhurrhn.vercel.app](https://tools-fatkhurrhn.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Fitur
+Beberapa fitur utama yang tersedia saat ini:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📷 **Image to Link Converter** → Upload gambar dan dapatkan link siap pakai.  
+- 🔑 **Password Generator** → Buat password acak yang kuat sesuai kebutuhan.  
+- 📦 **Barcode Generator** → Generate barcode dengan cepat dan mudah.  
+- ⚡ ...dan akan terus bertambah!  
+
+---
+
+## 🚀 Tech Stack
+Project ini dibangun dengan:
+- [React](https://react.dev/) – library UI
+- [Vite](https://vitejs.dev/) – bundler super cepat
+- [TailwindCSS](https://tailwindcss.com/) – styling cepat & fleksibel
+
+---
+
+## 📦 Instalasi & Menjalankan di Lokal
+Clone repo ini dan jalankan secara lokal:
+
+```bash
+# Clone repo
+git clone https://github.com/username/repo-name.git
+
+# Masuk folder project
+cd repo-name
+
+# Install dependencies
+npm install
+
+# Jalankan project
+npm run dev
